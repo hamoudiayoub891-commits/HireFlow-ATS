@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="ai-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" /> <!-- Violet -->
+      <stop offset="100%" stop-color="#3B82F6" /> <!-- Bleu -->
+    </linearGradient>
+  </defs>
+  <path fill="url(#ai-gradient)" d="M166.4,22.6l-104,112A8,8,0,0,0,68.3,148H124l-14.4,81.4A8,8,0,0,0,123.3,238a8.3,8.3,0,0,0,5.4-2.1l104-112A8,8,0,0,0,226.8,110H171.2l14.4-81.4A8,8,0,0,0,166.4,22.6Z"/>
+</svg>
