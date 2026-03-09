@@ -26,7 +26,7 @@ Under the hood, each uploaded resume is parsed and its structured data stored in
 
 ## ✨ Key Features
 
-- 🤖 **AI-Powered Candidate Matching** — Natural language search powered by `https://openrouter.ai/api/v1` via OpenRouter, with ranked results and per-candidate match reasoning
+- 🤖 **AI-Powered Candidate Matching** — Natural language search powered by `Grok AI` via OpenRouter, with ranked results and per-candidate match reasoning
 - 📄 **Automated PDF Parsing** — Extracts name, contact details, skills, experience, education, interests, and a professional summary directly from uploaded resumes
 - 🎯 **Precision Skill vs. Interest Discrimination** — The AI is instructed to distinguish verified technical skills from personal hobbies, eliminating false positives
 - 🗄️ **Persistent Candidate Database** — All parsed profiles are stored in MySQL for instant retrieval and re-querying
@@ -58,7 +58,7 @@ Under the hood, each uploaded resume is parsed and its structured data stored in
 | Technology | Purpose |
 |---|---|
 | OpenRouter API | LLM gateway |
-| google/gemini-1.5-flash | Resume parsing & candidate ranking model |
+| Grok AI | Resume parsing & candidate ranking model |
 
 ---
 
